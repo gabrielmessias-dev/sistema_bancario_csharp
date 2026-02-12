@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\025.016231\\SistemaBancarioMessi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49EBA5F2-F304-41D6-ADF7-3AFF156F56CB}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|c:\\users\\025.016231\\sistemabancariomessi\\sistemabancariomessi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49EBA5F2-F304-41D6-ADF7-3AFF156F56CB}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|solutionrelative:sistemabancariomessi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|c:\\users\\025.016231\\sistemabancariomessi\\sistemabancariomessi\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|solutionrelative:sistemabancariomessi\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|c:\\users\\025.016231\\sistemabancariomessi\\sistemabancariomessi\\models\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|solutionrelative:sistemabancariomessi\\models\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|c:\\users\\025.016231\\sistemabancariomessi\\sistemabancariomessi\\models\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|solutionrelative:sistemabancariomessi\\models\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|c:\\users\\025.016231\\sistemabancariomessi\\sistemabancariomessi\\models\\contaempresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|solutionrelative:sistemabancariomessi\\models\\contaempresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|c:\\users\\025.016231\\sistemabancariomessi\\sistemabancariomessi\\models\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|solutionrelative:sistemabancariomessi\\models\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|c:\\users\\025.016231\\sistemabancariomessi\\sistemabancariomessi\\repositories\\contarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|solutionrelative:sistemabancariomessi\\repositories\\contarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|c:\\users\\025.016231\\sistemabancariomessi\\sistemabancariomessi\\repositories\\icontarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|solutionrelative:sistemabancariomessi\\repositories\\icontarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|c:\\users\\025.016231\\sistemabancariomessi\\sistemabancariomessi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD36DFB-FCDB-3D3A-1210-429ECF1AC4F1}|SistemaBancarioMessi\\SistemaBancarioMessi.csproj|solutionrelative:sistemabancariomessi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +50,100 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Repositories\\ContaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaBancarioMessi\\Repositories\\ContaRepository.cs",
+              "ToolTip": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Repositories\\ContaRepository.cs",
+              "RelativeToolTip": "SistemaBancarioMessi\\Repositories\\ContaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:59:38.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Models\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "SistemaBancarioMessi\\Models\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Models\\ContaPoupanca.cs",
+              "RelativeToolTip": "SistemaBancarioMessi\\Models\\ContaPoupanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:46:48.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaEmpresarial.cs",
+              "DocumentMoniker": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Models\\ContaEmpresarial.cs",
+              "RelativeDocumentMoniker": "SistemaBancarioMessi\\Models\\ContaEmpresarial.cs",
+              "ToolTip": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Models\\ContaEmpresarial.cs",
+              "RelativeToolTip": "SistemaBancarioMessi\\Models\\ContaEmpresarial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:46:30.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Models\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "SistemaBancarioMessi\\Models\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Models\\ContaCorrente.cs",
+              "RelativeToolTip": "SistemaBancarioMessi\\Models\\ContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:39:56.423Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ContaController.cs",
+              "DocumentMoniker": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Controllers\\ContaController.cs",
+              "RelativeDocumentMoniker": "SistemaBancarioMessi\\Controllers\\ContaController.cs",
+              "ToolTip": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Controllers\\ContaController.cs",
+              "RelativeToolTip": "SistemaBancarioMessi\\Controllers\\ContaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:59:09.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IContaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Repositories\\IContaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaBancarioMessi\\Repositories\\IContaRepository.cs",
+              "ToolTip": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Repositories\\IContaRepository.cs",
+              "RelativeToolTip": "SistemaBancarioMessi\\Repositories\\IContaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:17:31.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Models\\Conta.cs",
+              "RelativeDocumentMoniker": "SistemaBancarioMessi\\Models\\Conta.cs",
+              "ToolTip": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Models\\Conta.cs",
+              "RelativeToolTip": "SistemaBancarioMessi\\Models\\Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:05:23.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Program.cs",
               "RelativeDocumentMoniker": "SistemaBancarioMessi\\Program.cs",
-              "ToolTip": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Program.cs*",
-              "RelativeToolTip": "SistemaBancarioMessi\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\025.016231\\SistemaBancarioMessi\\SistemaBancarioMessi\\Program.cs",
+              "RelativeToolTip": "SistemaBancarioMessi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T11:31:37.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T11:31:37.315Z"
             }
           ]
         }

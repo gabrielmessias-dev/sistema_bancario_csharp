@@ -2,3 +2,14 @@ C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\obj\Debug\net10.0\
 C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\obj\Debug\net10.0\SistemaBancarioMessi.AssemblyInfoInputs.cache
 C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\obj\Debug\net10.0\SistemaBancarioMessi.AssemblyInfo.cs
 C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\obj\Debug\net10.0\SistemaBancarioMessi.csproj.CoreCompileInputs.cache
+C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\obj\Debug\net10.0\SistemaBancarioMessi.sourcelink.json
+C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\bin\Debug\net10.0\SistemaBancarioMessi.exe
+C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\bin\Debug\net10.0\SistemaBancarioMessi.deps.json
+C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\bin\Debug\net10.0\SistemaBancarioMessi.runtimeconfig.json
+C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\bin\Debug\net10.0\SistemaBancarioMessi.dll
+C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\bin\Debug\net10.0\SistemaBancarioMessi.pdb
+C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\obj\Debug\net10.0\SistemaBancarioMessi.dll
+C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\obj\Debug\net10.0\refint\SistemaBancarioMessi.dll
+C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\obj\Debug\net10.0\SistemaBancarioMessi.pdb
+C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\obj\Debug\net10.0\SistemaBancarioMessi.genruntimeconfig.cache
+C:\Users\025.016231\SistemaBancarioMessi\SistemaBancarioMessi\obj\Debug\net10.0\ref\SistemaBancarioMessi.dll

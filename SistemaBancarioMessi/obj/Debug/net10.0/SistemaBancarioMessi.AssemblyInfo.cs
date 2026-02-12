@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaBancarioMessi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5aa12fa21bdeecb4bda6c2e4a16b7d6eec67a904")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaBancarioMessi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaBancarioMessi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
